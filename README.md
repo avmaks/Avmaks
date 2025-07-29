@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**avmaks/Avmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="hello" align="justify">
+    <h1><b>Hi there, I'm Max 🖐🏻</b></h1>
+    <img src="./pixel GIF.gif" width="500"//>
+</div>
+<div id="about" align="justify">
+    <h1><b> About me:</b></h1>
+    <h4>I am currently studying at Programming School 21. Here you can find my school projects.</h4>
+</div>
+<div id="stack" align="justify">
+    <h2><b>⚙ Language </b></h2>
+    <h2><b> 👨‍💻Currently learning: ______ </b></h2>
+</div>
+<div id="my repos" align="justify">
+    <h2><b>My school projects.</b></h2>
+</div>
