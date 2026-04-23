@@ -19,7 +19,7 @@
   </h4>
 
   <h2><b>👨‍💻 Currently learning:</b></h2>
-  <h4>Go, углубленное API testing, автотестирование.</h4>
+  <h4>Go, углубленное тестирование API, автотестирование.</h4>
 </div>
 
 <div id="my-repos" align="justify">
