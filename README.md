@@ -7,7 +7,9 @@
     <h4>I am currently studying at Programming School 21. Here you can find my school projects.</h4>
 </div>
 <div id="stack" align="justify">
-    <h2><b>⚙ Language </b></h2>
+    <h2><b>⚙ Language 
+    dsasdasda
+</b></h2>
     <h2><b> 👨‍💻Currently learning: ______ </b></h2>
 </div>
 <div id="my repos" align="justify">
