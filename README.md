@@ -25,6 +25,10 @@
 <div id="my-repos" align="justify">
   <h2><b>My QA projects:</b></h2>
   <h4>
+    • <a href="https://github.com/avmaks/1_ManualQA">01Pet ManualQA</a><br/>
+    • <a href="https://github.com/avmaks/02_ManualQA">02Pet ManualQA</a><br/>
+    • <a href="https://github.com/avmaks/03_ManualQA">03Pet ManualQA</a><br/>
+  </h4>
 
   </h4>
 </div>
