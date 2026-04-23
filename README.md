@@ -1,6 +1,6 @@
 <div id="hello" align="justify">
   <h1><b>Hi there, I'm Max 🖐🏻</b></h1>
-  <img src="./pixel GIF.gif" width="500" />
+  <img src="./pixel GIF.gif" width="1000" />
 </div>
 
 <div id="about" align="justify">
